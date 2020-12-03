@@ -11,7 +11,6 @@ This VAE has the ability to   generate from within the distribution of satellite
 | dropout                | 0.5           |  
 | mse_weight             | 1             |  
 | KLDiv_weight           | 1e-3            |
-| LSTM Layers            | 2             |   
 | Hidden activation      | SeLU           |
 | Latent activation      | Sigmoid           |
 
