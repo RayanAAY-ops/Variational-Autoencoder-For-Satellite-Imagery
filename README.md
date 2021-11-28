@@ -1,6 +1,6 @@
 # Segmenter Variational Autoencoder
 
-This VAE has the ability to   generate from within the distribution of satellites images, a generative image  representative of the entire dataset with  colored distinct patterns mapped into a RGB Space.
+This VAE has the ability to  generate from within the distribution of satellites images a new image.
 
 # Hyperparameters
 | Hyperparameters        | Values        |
